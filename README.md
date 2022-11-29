@@ -1,5 +1,13 @@
 # CNAB Reader
-<p>Aplicação com objetivo de interpretar arquivos .txt com informações financeiras (CNAB)!</p>
+<p>Aplicação com objetivo de interpretar arquivos .txt com informações financeiras (CNAB) via web com soma total de todas as transações e listagem de cada atributo em um código CNAB</p>
+
+## Tecnologias utilizadas:
+
+<ul>
+    <li>Python</li>
+    <li>Django</li>
+    <li>Django Rest Framework</li>
+</ul>
 
 ## Instruções para rodar localmente
 
